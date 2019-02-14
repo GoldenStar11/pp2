@@ -8,5 +8,3 @@ C:\Users\Еркебулан\source\repos\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Ta
 C:\Users\Еркебулан\source\repos\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Task 4.AssemblyInfo.cs
 C:\Users\Еркебулан\source\repos\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Task 4.dll
 C:\Users\Еркебулан\source\repos\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Task 4.pdb
-C:\Users\Еркебулан\Desktop\PP2 LAB\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Task 4.dll
-C:\Users\Еркебулан\Desktop\PP2 LAB\LAB 1\Task 4\obj\Debug\netcoreapp2.1\Task 4.pdb
